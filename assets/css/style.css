@@ -1,0 +1,26 @@
+form {
+	background-color:lightblue;
+	float: right;
+	margin-top: 150px;
+	margin-right: 20px;
+	border: 3px solid grey;
+}
+#viewHeroButtons {
+	width: 100%;
+	background-color:lightblue;
+}
+#SuperHeroes-view {
+	margin-top: 50px;
+	color: white;
+}
+button{
+	border: 2px solid black;
+	font-color:white;
+	background-color: grey;
+	margin: 5px;
+	width: 100px;
+	height: 50px;
+}
+body {
+	background-color: black;
+}
